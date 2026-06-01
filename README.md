@@ -1,9 +1,9 @@
-#Sales Dashboard Project (Excel)
-#Project Overview
+# Sales Dashboard Project (Excel)
+# Project Overview
 
 This project analyzes sales performance using Microsoft Excel. The dashboard provides insights into sales trends, product performance, city-wise revenue, and category-wise analysis.
 
-#dataset used
+# dataset used
 
 - <a href=https://github.com/indhuindhu6302-bit/Data-analyst-dashboard/blob/main/Sales_Data%20indu%20project.xlsx>dataset/a>
 - 
@@ -28,4 +28,14 @@ Dashboard interaction - <a herf=
 ## Dashboard
 <img width="1536" height="1024" alt="dashboard indhu" src="https://github.com/user-attachments/assets/38e8640a-e942-4766-ae63-e68a8287ca4c" />
 
+
+## Project Insights
+-Sales performance varied across products and categories, with a few top-performing products contributing a significant share of total revenue.
+-Certain regions/cities consistently generated higher sales, indicating strong market demand.
+-Monthly sales trends revealed peak periods that can be leveraged for targeted marketing and inventory planning.
+-Interactive KPI tracking helped identify growth opportunities and areas requiring improvement.
+
+## Final Conclusion
+
+The Sales Dashboard successfully transformed raw sales data into meaningful business insights. By monitoring key KPIs, product performance, and regional trends, the dashboard enables data-driven decision-making, improves sales strategy, and supports business growth through better planning and performance analysis.
 
