@@ -24,3 +24,8 @@ Dashboard interaction - <a herf=
 -Organized the data and created Pivot Tables for analysis.
 -Calculated key KPIs such as Total Sales, Profit, and Top-Performing Products.
 -Designed an interactive Excel dashboard using charts and slicers to visualize business insights.
+
+## Dashboard
+<img width="1536" height="1024" alt="dashboard indhu" src="https://github.com/user-attachments/assets/38e8640a-e942-4766-ae63-e68a8287ca4c" />
+
+
