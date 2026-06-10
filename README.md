@@ -6,6 +6,7 @@ This project analyzes sales performance using Microsoft Excel. The dashboard pro
 # dataset used
 
 - <a href="https://github.com/indhuindhu6302-bit/Data-analyst-dashboard/blob/main/Sales_Data%20indu%20project.xlsx">dataset/a>
+
   
 
 # questions (kpi)
