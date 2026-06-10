@@ -1,4 +1,4 @@
-# Sales Dashboard Project (Excel)
+# Sales Dashboard Project 
 # Project Overview
 
 This project analyzes sales performance using Microsoft Excel. The dashboard provides insights into sales trends, product performance, city-wise revenue, and category-wise analysis.
